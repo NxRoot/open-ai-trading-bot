@@ -18,9 +18,9 @@ pip install -r requirements.txt
 ```
 
 ## How to Use
+> Activate the Virtual Environment before running.
 
 ### Run Bot
-> Activate the Virtual Environment before running.
 ```
 python3 app.py
 ```
