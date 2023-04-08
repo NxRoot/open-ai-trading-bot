@@ -3,3 +3,4 @@ stable_baselines3
 numpy
 pandas
 requests
+tensorboard
